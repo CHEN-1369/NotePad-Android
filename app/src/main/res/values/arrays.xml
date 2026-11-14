@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Category keys stored in the database, in display order. -->
+    <string-array name="category_keys">
+        <item>work</item>
+        <item>study</item>
+        <item>life</item>
+        <item>other</item>
+    </string-array>
+
+    <!-- Display names matching category_keys. -->
+    <string-array name="category_names">
+        <item>工作</item>
+        <item>学习</item>
+        <item>生活</item>
+        <item>其他</item>
+    </string-array>
+</resources>
